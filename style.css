@@ -1,0 +1,24 @@
+.box {
+  max-width: 400px;
+  margin: auto;
+  background-color: rgb(233, 236, 236);
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.answer {
+  display: flex;
+  justify-content: space-around;
+  max-width: 300px;
+  margin: auto;
+}
+.inpt {
+  font-size: 20px;
+  border-color: rgb(91, 91, 235);
+  border-radius: 4px;
+}
+.type {
+  margin-right: 40px;
+  font-size: 30px;
+}
